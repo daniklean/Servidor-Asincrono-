@@ -1,0 +1,59 @@
+[
+
+    {
+        "modelo":"Ford ka+",
+        "carroceria":"original",
+        "motor":"1.6",
+        "transmision":"automatica",
+        "tanque":"1",
+        "asientos":"2",
+        "puertas":"3",
+        "ventanas":"4",
+        "ruedas":"4"
+    },
+    {
+        "modelo":"Ford ka",
+        "carroceria":"original",
+        "motor":"1.5",
+        "transmision":"sincronica",
+        "tanque":"1",
+        "asientos":"2",
+        "puertas":"2",
+        "ventanas":"4",
+        "ruedas":"4"
+    },
+    {
+        "modelo":"Ford Fiesta",
+        "carroceria":"original",
+        "motor":"1.8",
+        "transmision":"sincronica",
+        "tanque":"1",
+        "asientos":"5",
+        "puertas":"4",
+        "ventanas":"6",
+        "ruedas":"4"
+    },
+    {
+        "modelo":"Ford Cruze",
+        "carroceria":"Coupe",
+        "motor":"1.8",
+        "transmision":"sincronica",
+        "tanque":"1",
+        "asientos":"5",
+        "puertas":"4",
+        "ventanas":"6",
+        "ruedas":"4"
+    },
+    {
+        "modelo":"Ford F4",
+        "carroceria":"Coupe",
+        "motor":"V6",
+        "transmision":"Hidromatica",
+        "tanque":"2",
+        "asientos":"8",
+        "puertas":"4",
+        "ventanas":"8",
+        "ruedas":"4"
+    }
+    
+]

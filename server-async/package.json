@@ -1,0 +1,26 @@
+{
+  "name": "server-async",
+  "version": "1.0.0",
+  "description": "Implementación de un servidor asincrono no bloqueante  ",
+  "export": "app.js",
+  
+  "scripts": {
+    "dev": "nodemon "
+  },
+  "author": "Luis Daniel Vieras",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
